@@ -445,7 +445,8 @@ Contextual_Keyword
     | 'by'     'descending'    'dynamic'     'equals'     'from'
     | 'get'    'global'        'group'       'into'       'join'
     | 'let'    'orderby'       'partial'     'remove'     'select'
-    | 'set'    'value'         'var'         'where'      'yield'
+    | 'set'    'value'         'var'         'when'
+    | 'where'  'yield'
     ;
 ```
 
